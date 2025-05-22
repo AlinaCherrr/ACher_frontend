@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  width: 100vw;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0;
+}
+
+
