@@ -1,12 +1,9 @@
-# React + Vite
+# Карточки для турагенства
+Разработано для вузовского группового проекта TRAVEL_AI 
+![image](https://github.com/user-attachments/assets/19761fbe-9697-43f1-872b-ca345a95489c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+___
+Добавлено контекстное меню
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/a2ddfc73-4cb4-41ae-a160-0af4ac1bbfcd)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
