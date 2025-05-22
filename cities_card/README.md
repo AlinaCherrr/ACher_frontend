@@ -1,8 +1,5 @@
-# React + Vite
+# Карточки городов России
+Разработано для вузовского группового проекта Travel AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://github.com/user-attachments/assets/2f760337-69f1-4e73-995f-024ee52049f9" width="750" alt="карточки городов">
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
