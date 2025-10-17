@@ -12,4 +12,4 @@ P.S. Автор один из танцоров🙃
 
 
 ### Видеопрезентация
-<video src="https://github.com/AlinaCherrr/ACher_frontend/blob/main/overlock-web/videos/Overlock-git.mp4" muted autoplay loop>
+https://github.com/user-attachments/assets/5c1e568e-bae6-4d66-9fe2-7c4633bca1f8
